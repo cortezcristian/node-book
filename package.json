@@ -1,5 +1,5 @@
 {
-  "name": "nodebooks",
+  "name": "node-book",
   "version": "0.0.1",
   "description": "NodeJS Notebooks",
   "main": "index.js",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cortezcristian/nodebooks.git"
+    "url": "git+https://github.com/cortezcristian/node-book.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cortezcristian/nodebooks/issues"
+    "url": "https://github.com/cortezcristian/node-book/issues"
   },
-  "homepage": "https://github.com/cortezcristian/nodebooks#readme"
+  "homepage": "https://github.com/cortezcristian/node-book#readme"
 }

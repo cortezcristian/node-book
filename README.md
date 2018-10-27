@@ -1,2 +1,2 @@
-# nodebooks
+# node-book
 NodeJS Notebooks
