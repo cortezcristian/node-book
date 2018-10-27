@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "NodeJS Notebooks",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.4",
+    "opener": "^1.5.1"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
