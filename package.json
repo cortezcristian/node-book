@@ -1,6 +1,6 @@
 {
   "name": "node-book",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "NodeJS Notebooks",
   "main": "index.js",
   "dependencies": {
